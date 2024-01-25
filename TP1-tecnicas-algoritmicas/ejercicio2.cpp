@@ -51,7 +51,6 @@ void mergeSort(tripla arr[], int l, int r){
 
         merge(arr,l,mid,r);
     }
-    // espera que vaytamos paso a paso hdp, estamos testeando haceme caso boludo, mira geeks el mergesort
 }
 
 int main() {
